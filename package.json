@@ -2,7 +2,7 @@
   "name": "api-crud-cars",
   "version": "1.0.0",
   "description": "API-CRUD sobre carros em typescript",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "dev": "nodemon --exec ts-node ./src/index.ts",
     "build": "rm -rf ./dist && tsc",
