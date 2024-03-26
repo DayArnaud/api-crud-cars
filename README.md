@@ -6,7 +6,7 @@ API-CRUD sobre carros em typescript
 
 </p>
 <h4 align="center"> 
-	API CRUD sobre carros
+	TypeDrive: RESTful Car API in TypeScript
 </h4>
 
 <p align="center">
